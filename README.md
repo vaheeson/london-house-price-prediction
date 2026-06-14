@@ -56,7 +56,7 @@ This project can be deployed using:
 Startup command:
 ```bash
 gunicorn app:app
-
+```
 🛠️ Tech Stack
 Python
 Pandas, NumPy
@@ -73,6 +73,7 @@ london-house-price-prediction/
 ├── notebook.ipynb
 ├── requirements.txt
 ├── README.md
+
 📌 How to Run Locally
 git clone https://github.com/your-username/london-house-price-prediction.git
 cd london-house-price-prediction
