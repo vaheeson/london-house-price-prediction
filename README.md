@@ -74,12 +74,15 @@ london-house-price-prediction/
 ├── requirements.txt
 ├── README.md
 
+
 📌 How to Run Locally
-git clone https://github.com/your-username/london-house-price-prediction.git
+git clone https://github.com/vaheeson/london-house-price-prediction.git
 cd london-house-price-prediction
 pip install -r requirements.txt
 python app.py
+
 👨‍💻 Author
+Vaheeson
 
 Vaheeson Vasanthakumar
 Data Science / Machine Learning Project
