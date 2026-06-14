@@ -58,31 +58,29 @@ Startup command:
 gunicorn app:app
 ```
 🛠️ Tech Stack
-Python
-Pandas, NumPy
-Scikit-learn
-XGBoost
-Flask (deployment)
-Azure (hosting)
+-Python
+-Pandas, NumPy
+-Scikit-learn
+-XGBoost
+-Flask (deployment)
+-Azure (hosting)
 
 📂 Project Structure
 london-house-price-prediction/
-│
-├── app.py
-├── model.pkl
-├── notebook.ipynb
-├── requirements.txt
-├── README.md
+-│
+-├── app.py
+-├── model.pkl
+-├── notebook.ipynb
+-├── requirements.txt
+-├── README.md
 
 
 📌 How to Run Locally
-git clone https://github.com/vaheeson/london-house-price-prediction.git
-cd london-house-price-prediction
-pip install -r requirements.txt
-python app.py
+-git clone https://github.com/vaheeson/london-house-price-prediction.git
+-cd london-house-price-prediction
+-pip install -r requirements.txt
+-python app.py
 
 👨‍💻 Author
-Vaheeson
-
-Vaheeson Vasanthakumar
-Data Science / Machine Learning Project
+-Vaheeson Vasanthakumar
+-Data Science / Machine Learning Project
